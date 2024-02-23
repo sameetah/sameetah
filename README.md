@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sameetah
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML,CSS and Java Script
-- 💞️ I’m looking to collaborate on exciting Frontend development projects
+- 👀 I’m interested in full stack development
+- 💞️ I’m looking to collaborate on exciting full stack development projects
 - 📫 How to reach me: sameetah.umair@gmail.com
 
 <!---
